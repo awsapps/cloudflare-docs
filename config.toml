@@ -1,6 +1,6 @@
-baseURL = "https://developers.cloudflare.com"
+baseURL = "https://tn.ms"
 
-title = "Cloudflare Docs"
+title = "TN Docs"
 languageCode = "en"
 DefaultContentLanguage = "en"
 disableHugoGeneratorInject = true
